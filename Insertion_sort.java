@@ -40,7 +40,7 @@ public class Insertion_sort {
         Display(array);
         System.out.println("");
         
-        // Callin sort function
+        // Calling sort function
         Insertion_Sort(array);
         
         // Printing array after sorting
